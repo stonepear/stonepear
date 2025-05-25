@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 👨‍💻Skills
 #### Languages 
@@ -13,5 +12,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
-
+---
+#### 📈 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pear_vero)](https://solved.ac/pear_vero/)
